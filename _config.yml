@@ -1,0 +1,28 @@
+name: Lux Editions Interiors
+favicon: null
+layout_spectrum: 0.10633787792176008
+typography_spectrum: 0.14559424435719848
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9107006511185318
+  lightness: 0.7862947664689273
+  saturation: 0.9763110426720232
+  rhythmicContrast: 0.9612188029568642
+purpose: []
